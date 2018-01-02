@@ -26,4 +26,4 @@
 - Bake for about 30 minutes or until a toothpick inserted into the center comes out clean, or with a crumb or two attached. You can start testing after 27 minutes because it's better to check too soon than to overbake.
 - Cool the cakes for 10 minutes in the pans on a wire rack, then loosen the edges by running a knife along the sides, turn the cakes out onto the racks and cool for at least another hour, and frost with this chocolate frosting recipe.
 
-!(/images/github-chocolate-cake.jpg)
+![Image of github's cat](https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ.png)
