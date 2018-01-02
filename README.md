@@ -27,3 +27,6 @@
 - Cool the cakes for 10 minutes in the pans on a wire rack, then loosen the edges by running a knife along the sides, turn the cakes out onto the racks and cool for at least another hour, and frost with this chocolate frosting recipe.
 
 ![Image of a Chocolate Cake](https://fthmb.tqn.com/IH2X1ufyUVXurKtN8EJLhmt1gmY=/960x0/filters:no_upscale()/chocolate-cake-2500-56a211085f9b58b7d0c6344e.jpg)
+
+
+![Image of a Chocolate Cake]((/amitkor/HW1/blob/master/chocolate-cake.jpg)
