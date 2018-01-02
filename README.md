@@ -29,4 +29,4 @@
 ![Image of a Chocolate Cake](https://fthmb.tqn.com/IH2X1ufyUVXurKtN8EJLhmt1gmY=/960x0/filters:no_upscale()/chocolate-cake-2500-56a211085f9b58b7d0c6344e.jpg)
 
 
-![Image of a Chocolate Cake](/amitkor/HW1/blob/master/chocolate-cake.jpg)
+![Image of a Chocolate Cake](HW1/chocolate-cake.jpg)
